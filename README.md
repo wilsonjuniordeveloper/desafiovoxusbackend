@@ -11,8 +11,7 @@ Após rode o comando
 	npm start or yarn add
 ```
 Pronto a aplicação já está rodando se nenhuma porta estiver sendo usada estará disponivel no `http://localhost:5000`
-`                   
-`
+
 Está documentação se refere ao funcionamento da API , tipo de respostas e detalhes das requisições, os exemplos aqui inseridos pode ser usando a partir das base urls:
 
 `http://localhost:5000/api`  OR `(https://api-desafiovoxusbackend.herokuapp.com/)`
