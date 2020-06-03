@@ -14,7 +14,7 @@ GET `/api/payment`
 
 Responsável por listar todos os payments cadastrado no banco de dados, não aceita parâmetros  e só retorna um JSON com todos os dados contidos. 
 
-No retorno do corpo `JSON` da chamada GET, conterá um campo de nome TAXA que sempre que é feita uma chamada do tipo POST ele obtem o campo `VALOR` e faz uma operação de porcetagem% fixa de 5% no mesmo e retorna a `TAXA` salvando no banco de dados.
+No retorno do corpo `JSON` da chamada GET, conterá um campo de nome `TAXA` que sempre que é feita uma chamada do tipo POST ele obtem o campo `VALOR` e faz uma operação de porcetagem% fixa de 5% no mesmo e retorna a `TAXA` salvando no banco de dados.
 
 
 POST `/api/payment` 
