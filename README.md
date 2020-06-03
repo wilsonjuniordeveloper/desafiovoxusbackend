@@ -1,6 +1,6 @@
 Esta documentação se refere ao funcionamento da API , tipo de respostas e detalhes das requisições, os exemplos aqui inseridos pode ser usando a partir das base urls:
 
-`http://localhost:5000/api`  OR `[http://api.desafiovoxus.herokuapp.com/](https://api-desafiovoxusbackend.herokuapp.com/)`
+`http://localhost:5000/api`  OR `(https://api-desafiovoxusbackend.herokuapp.com/)`
 
 Todo o acesso à API é feito por HTTP e acessado a partir das bases urls. Todos os dados são enviados e recebidos como JSON.
 
