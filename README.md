@@ -1,4 +1,4 @@
-Esta documentação se refere ao funcionamento da API , tipo de respostas e detalhes das requisições, os exemplos aqui inseridos pode ser usando a partir das base urls:
+Está documentação se refere ao funcionamento da API , tipo de respostas e detalhes das requisições, os exemplos aqui inseridos pode ser usando a partir das base urls:
 
 `http://localhost:5000/api`  OR `(https://api-desafiovoxusbackend.herokuapp.com/)`
 
@@ -56,3 +56,7 @@ Status: `500`- Erros na gravação do banco de dados.
 `number is not correct`  o numero não esta no formato correto, isso pode acontecer quando é passado no campo number alguma String ou não for um numero decimal
 
 `the date format cannot be saved`  a data não está no formato correto , isso se da quando a data não está no formato Y-M-D
+
+Obervação: Está API não possui nenhum tipo de autenticação devido ser um API de teste 
+
+
